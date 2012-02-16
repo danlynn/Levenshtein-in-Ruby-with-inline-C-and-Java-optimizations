@@ -58,7 +58,7 @@ within the inline block.  Instead we have to wrap it inside a C style function c
 
 ```ruby
 void foo() {
-    printf("hello world!\n");
+    printf("hello world!\n");
 }
 ```
 
